@@ -12,7 +12,7 @@ import AuthProvider from "./context/AuthContext";
 import "./styles/global.css";
 import "./styles/bloody.css";
 
-const App = () =
+const App = () =>
   return (>> 
     <AuthProvider> 
       <BrowserRouter> 
@@ -25,3 +25,4 @@ const App = () =
   );
 };
 export default App;
+
