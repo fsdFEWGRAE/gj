@@ -1,0 +1,9 @@
+.bloody403-container {
+  text-align: center;
+  color: white;
+  padding-top: 10vh;
+  background: linear-gradient(black, #240000);
+  height: 100vh;
+  box-shadow: inset 0 0 80px red;
+  font-family: Arial;
+}
